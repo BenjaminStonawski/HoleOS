@@ -10,6 +10,9 @@ Download link: https://peachestech.net/holeos/download
 
  
 # Under development
+
 HoleOS: **None**
+
 HoleOScompact: **HoleOScompact 0.2.1**
+
 HoleOSenterprise: **HoleOSenterprise 0.2.1**
