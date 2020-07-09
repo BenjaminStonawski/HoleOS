@@ -13,3 +13,5 @@
 - New GDM, included with a login screen wallpaper which was taken by  Zsolt Fuzessi
 
 - Placeholder applications and app removals
+
+(developer version)
