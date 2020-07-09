@@ -1,5 +1,6 @@
 # HoleOS
 Github page of HoleOS by Peaches Technology.
+![Modular Image Creation](https://peachestech.net/wp-content/uploads/2020/06/peaches4-1-150x150.png)
 
 # Latest HoleOS releases
 Latest stable release: HoleOS 0.2.1
