@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<!--Wallpapers by/Háttérképeket készítette: Tchabyka (Csaba Nagy)-->
+<!--Code written by/Kódot írta: Cat (Benjamin Stonawski)-->
+<wallpapers>
+<!--HoleOS Desktop Wallpapers-->
+  <wallpaper>
+    <name>HoleOSalpha2 Wallpaper 1</name>
+    <filename>/usr/share/backgrounds/1.png</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>HoleOSalpha2 Wallpaper 2</name>
+    <filename>/usr/share/backgrounds/2.png</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>HoleOSalpha2 Wallpaper 3</name>
+    <filename>/usr/share/backgrounds/3.png</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>HoleOSalpha2 Wallpaper 4</name>
+    <filename>/usr/share/backgrounds/4.png</filename>
+  </wallpaper>
+<!--HoleOS Lock Screen Wallpapers-->
+  <wallpaper>
+    <name>HoleOSalpha2 Lock Screen Wallpaper 1</name>
+    <filename>/usr/share/backgrounds/1lock.png</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>HoleOSalpha2 Lock Screen Wallpaper 2</name>
+    <filename>/usr/share/backgrounds/2lock.png</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>HoleOSalpha2 Lock Screen Wallpaper 3</name>
+    <filename>/usr/share/backgrounds/3lock.png</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>HoleOSalpha2 Lock Screen Wallpaper 4</name>
+    <filename>/usr/share/backgrounds/4lock.png</filename>
+  </wallpaper>
+</wallpapers>
