@@ -14,18 +14,18 @@ HoleOS is a Linux distribution based on Ubuntu, developed by Peaches Technology.
 
 **HoleOSalpha**
 
-L HoleOS 0.1.1 (for developers only)
+**L** HoleOS 0.1.1 (for developers only)
 
-L HoleOS 0.1.2 (for developers only)
+**L** HoleOS 0.1.2 (for developers only)
 
-L HoleOS 0.1.3 LTS (Latest available version: 0.1.3.1) (.iso)
+**L** HoleOS 0.1.3 LTS (Latest available version: 0.1.3.1) (.iso)
 
  
 
 **HoleOSalpha2**
 
-L HoleOS 0.2.1 (.iso)
+**L** HoleOS 0.2.1 (.iso)
 
-  L HoleOScompact 0.2.1 (under development)
+  **L** HoleOScompact 0.2.1 (under development)
   
-  L HoleOSenterprise 0.2.1 (under development)
+  **L** HoleOSenterprise 0.2.1 (under development)
