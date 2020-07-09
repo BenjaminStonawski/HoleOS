@@ -3,22 +3,18 @@ Github page of HoleOS by Peaches Technology.
 
 # ![Modular Image Creation](https://peachestech.net/wp-content/uploads/2020/06/peaches4-1-150x150.png)
 
-# Latest HoleOS releases
-Latest stable release: HoleOS 0.2.1
-Latest LTS release: HoleOS 0.1.3 LTS - 0.1.3.1
+# About HoleOS
 
- # Latest HoleOScompact releases
-Latest stable release: No stable releases are available.
+HoleOS is a Linux distribution based on Ubuntu, developed by Peaches Technology. It has got three different editions; HoleOS for everyday use, HoleOScompact for a cleaned version, and HoleOSenterprise for work although in HoleOSalpha there is just one edition (HoleOS).
 
-# Latest HoleOSenterprise releases
-Latest stable release: No stable releases are available.
+# Available series, versions
 
-# Beta releases
-HoleOS: No beta versions are available.
-HoleOScompact: No beta versions are available.
-HoleOSenterprise: No beta versions are available.
+HoleOSalpha
+L HoleOS 0.1.1 (for developers only)
+L HoleOS 0.1.2 (for developers only)
+L HoleOS 0.1.3 LTS (Latest available version: 0.1.3.1) (.iso)
 
-# Under development
-HoleOS: No releases are available.
-HoleOScompact: HoleOScompact 0.2.1
-HoleOSenterprise: HoleOSenterprise 0.2.1
+HoleOSalpha2
+L HoleOS 0.2.1 (.iso)
+  L HoleOScompact 0.2.1 (under development)
+  L HoleOSenterprise 0.2.1 (under development)
