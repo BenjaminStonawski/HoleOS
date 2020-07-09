@@ -1,4 +1,4 @@
-# Backgrounds
+# Background
 
 Backgrounds designed by Csaba Nagy and the code is written by Benjamin Stonawski.
 
