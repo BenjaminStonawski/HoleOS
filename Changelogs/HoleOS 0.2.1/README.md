@@ -24,6 +24,4 @@
 
 - Added a "safe graphics mode" and "debug mode" boot option in the installer, and a "recovery mode" boot option in the system
 
- 
- 
 (stable version)
