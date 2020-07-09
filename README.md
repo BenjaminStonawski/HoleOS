@@ -7,7 +7,7 @@ Github page of HoleOS by Peaches Technology.
 # About HoleOS
 
 
-HoleOS is a Linux distribution based on Ubuntu, developed by Peaches Technology. It has got three different editions; HoleOS for everyday use, HoleOScompact for a cleaned version, and HoleOSenterprise for work although in HoleOSalpha there is just one edition (HoleOS).
+HoleOS is a Linux distribution based on Ubuntu, developed by Peaches Technology. It has got three different editions; HoleOS for everyday use, HoleOScompact: a cleaned version, and HoleOSenterprise for work although in HoleOSalpha there is just one edition (HoleOS).
 
 # Available series, versions
 
