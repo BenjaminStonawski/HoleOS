@@ -4,7 +4,7 @@ The latest version of HoleOS Shell (1.2).
 
 # About HoleOS Shell
 
-HoleOS Shell is the default GNOME Shell Theme of HoleOS. In HoleOSalpha2, it included a login screen but in HoleOSalpha2, it got replaced with LightDM's default login screen
+HoleOS Shell is the default GNOME Shell Theme of HoleOS. In HoleOSalpha2, it included a login screen but in HoleOSalpha, it got replaced with LightDM's default login screen
 theme by the new version (1.2). 1.1 was a full GNOME Shell Theme, but 1.2 is just a User Theme.
 
 # Availability
