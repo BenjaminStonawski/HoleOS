@@ -1,7 +1,7 @@
 # HoleOS
 Github page of HoleOS by Peaches Technology.
 
-# ![Modular Image Creation](https://peachestech.net/wp-content/uploads/2020/06/peaches4-1-150x150.png) ![Modular Image Creation](https://peachestech.net/wp-content/uploads/2020/07/peaches-black2.png)
+# ![Modular Image Creation](https://peachestech.net/wp-content/uploads/2020/06/peaches4-1-150x150.png)
 
 
 # About HoleOS
