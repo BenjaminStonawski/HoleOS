@@ -1,7 +1,7 @@
 # HoleOS
 Github page of HoleOS by Peaches Technology.
 
-# ![Modular Image Creation](https://peachestech.net/wp-content/uploads/2020/06/peaches4-1-150x150.png)
+# ![Modular Image Creation](https://peachestech.net/wp-content/uploads/2020/08/holeoslogo1024-1-90x90.png)
 
 
 # About HoleOS
@@ -30,6 +30,8 @@ HoleOS is a Linux distribution based on Ubuntu, developed by Peaches Technology.
   
     **L** HoleOSenterprise 0.2.1 (.iso)
     
-**HoleOS Sarti**
+# Under development
+
+**HoleOS 0.3**
 
 **L** 
